@@ -1,0 +1,2 @@
+Key = Enum.KeyCode.Q -- Change if dif keybind
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IIIIlllllllIIlIlIlIlIII/FAmS/main/source", true))()
